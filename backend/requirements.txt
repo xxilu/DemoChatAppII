@@ -1,0 +1,6 @@
+fastapi[standard]
+python-dotenv
+openai
+pandas
+requests
+matplotlib
