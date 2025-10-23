@@ -10,7 +10,7 @@ This is a lightweight chat application that supports:
 Install environment.
 
 ```bash
-git clone 
+git clone https://github.com/xxilu/DemoChatAppII.git
 cd demochatappii
 ```
 
