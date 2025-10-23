@@ -49,5 +49,4 @@ npm run dev
 Then, you can use this port: http://localhost:5173 to test on your local
 
 Demo Video
-[![Watch the video]]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=Qdgk1NzhV9g))
-
+[![Watch the video]([https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg](https://i9.ytimg.com/vi_webp/Qdgk1NzhV9g/mqdefault.webp?v=68fa5866&sqp=CIiw6ccG&rs=AOn4CLAqmGXS3w-pOT-O_7rVYHa1lEIGaQ))]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=Qdgk1NzhV9g))
